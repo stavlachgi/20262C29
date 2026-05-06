@@ -1,1 +1,1 @@
-prompt,tool,cwe,vulns,high,medium,mitre,owasp,score
+tool,prompt,num_vulns,high,medium,mitre,owasp,cwe_acc,score
